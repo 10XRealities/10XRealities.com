@@ -152,6 +152,8 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-custom .navbar-brand {
   color: #7555A0;
+  text-shadow: -1px 0 #7555A0, 0 0 #7555A0, 0 0 #7555A0, 0 -1px #7555A0;
+  font-weight: bold;
   font-family: 'Major Mono Display', monospace;
 }
 .navbar-custom .navbar-brand:hover,
